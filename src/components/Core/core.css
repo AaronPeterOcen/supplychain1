@@ -1,0 +1,50 @@
+.core-header {
+  width: 455px;
+  height: 28px;
+  background-color: rgb(28, 168, 82);
+  margin-top: 20px;
+  border-radius: 27px;
+}
+
+.core-paras {
+  width: 541px;
+  height: 120px;
+  background-color: aquamarine;
+  margin-top: 20px;
+}
+
+.core-title {
+  width: 111px;
+  height: 24px;
+  background-color: aquamarine;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.core-aboutus {
+  width: 132px;
+  height: 53px;
+  background-color: yellow;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+.core-images {
+  width: 528px;
+  height: 306px;
+  background-color: aquamarine;
+  display: flex;
+  position: absolute;
+  /* right: 10%; */
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.core {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+.core-cards {
+  display: flex;
+  flex-direction: row;
+}

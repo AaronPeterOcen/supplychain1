@@ -1,0 +1,11 @@
+.group-cards {
+  width: 540px;
+  height: 539px;
+  background-color: rgb(182, 213, 203);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,20 @@
+.hero-card {
+  width: 198px;
+  height: 198px;
+  background-color: white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-years {
+  font-weight: 500;
+  font-size: 18px;
+  color: goldenrod;
+}
+
+.card-text{
+  font-size: 16px;
+  font-weight: 100;
+}
+

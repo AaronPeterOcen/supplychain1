@@ -1,0 +1,54 @@
+.insight-header {
+  width: 111px;
+  height: 24px;
+  background-color: pink;
+  border-radius: 27px;
+  margin-bottom: 10px;
+}
+
+.insight-header2 {
+  width: 276px;
+  height: 24px;
+  background-color: cadetblue;
+}
+
+.insight {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.insight-header3 {
+  width: 75px;
+  height: 26px;
+  background-color: cornflowerblue;
+  margin-top: 20px;
+}
+
+.insight-card-scroll {
+  width: 6px;
+  height: 640px;
+  background-color: cornflowerblue;
+  margin-left: 20px;
+}
+
+.insight-cards {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.insights-card-1 {
+  width: 1082px;
+  height: 200px;
+  background-color: aquamarine;
+  margin-bottom: 15px;
+}
+
+.insights-button {
+  width: 75px;
+  height: 26px;
+  background-color: goldenrod;
+  margin-top: 20px;
+  margin-left: 40%;
+}

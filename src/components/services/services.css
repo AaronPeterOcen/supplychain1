@@ -1,0 +1,51 @@
+.services-about {
+  width: 111px;
+  height: 24px;
+  background-color: aqua;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 27px;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.services-header {
+  width: 276px;
+  height: 24px;
+  background-color: skyblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.services-navigate {
+  width: 95px;
+  height: 14px;
+  background-color: aqua;
+  margin-top: 30px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+}
+
+.services-card-1 {
+  width: 255px;
+  height: 313px;
+  background-color: aquamarine;
+}
+
+.services-card-2 {
+  width: 255px;
+  height: 313px;
+  background-color: aquamarine;
+  margin-left: 20px;
+}
+
+.services-cards {
+  display: flex;
+  flex-direction: row;
+}

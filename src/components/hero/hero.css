@@ -1,0 +1,33 @@
+/* Hero section */
+.hero {
+  width: 100%;
+  height: 667px;
+  background-color: dimgray;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-about {
+  width: 637px;
+  height: 276px;
+  background-color: aliceblue;
+  margin-top: 100px;
+}
+
+.hero-aboutus {
+width: 230px;
+height: 53px;
+background-color: gold;
+margin-top: 20px;
+}
+
+.hero-cards{
+  width: 100%;
+  height: 198px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+

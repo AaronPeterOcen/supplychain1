@@ -1,0 +1,53 @@
+.submit {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.submit-cards {
+  display: flex;
+  flex-direction: row;
+}
+
+.submit-card-1 {
+  width: 541px;
+  height: 189px;
+  margin-top: 80px;
+}
+
+.submit-header {
+  width: 56px;
+  height: 24px;
+  background-color: gold;
+  margin-bottom: 10px;
+  border-radius: 27px;
+}
+
+.submit-header-2 {
+  width: 540px;
+  height: 28px;
+  background-color: aquamarine;
+  margin-bottom: 20px;
+}
+
+.submit-para {
+  width: 541px;
+  height: 96px;
+  background-color: aquamarine;
+}
+
+.submit-form {
+  width: 540px;
+  height: 364px;
+  background-color: aquamarine;
+  margin-left: 20px;
+}
+
+.submit-button {
+  width: 116px;
+  height: 53px;
+  background-color: goldenrod;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}

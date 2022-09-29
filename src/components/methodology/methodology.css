@@ -1,0 +1,48 @@
+.method {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.method-header {
+  width: 111px;
+  height: 24px;
+  background-color: goldenrod;
+  border-radius: 27px;
+}
+
+.method-subheader {
+  width: 540px;
+  height: 56px;
+  background-color: aquamarine;
+  margin-top: 15px;
+}
+
+.method-para {
+  width: 541px;
+  height: 72px;
+  background-color: aqua;
+  margin-top: 10px;
+}
+
+.method-button {
+  width: 209px;
+  height: 53px;
+  background-color: goldenrod;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.method-video {
+  width: 540px;
+  height: 286px;
+  background-color: aquamarine;
+  border-radius: 8px;
+  margin-left: 15px;
+}
+
+.method-cards {
+  display: flex;
+  flex-direction: row;
+}
