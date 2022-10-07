@@ -20,7 +20,7 @@
 .footer-card-1-components {
   width: 254px;
   height: 154px;
-  background-color: lightblue;
+  /* background-color: lightblue; */
 }
 
 .footer-card-2-header {
@@ -66,4 +66,55 @@
   height: 229px;
   background-color: aquamarine;
   border-radius: 5px;
+}
+
+.footer-card-1-para {
+  width: 255px;
+  height: 78px;
+  background-color: aqua;
+}
+.footer-card-1-links {
+  width: 132px;
+  height: 36px;
+  background-color: aqua;
+  margin-top: 20px;
+}
+
+.footer-card-2-link-1 {
+  width: 48px;
+  height: 19px;
+  background-color: aqua;
+}
+
+.footer-card-2-link-2 {
+  width: 65px;
+  height: 19px;
+  background-color: aqua;
+  margin-top: 15px;
+  align-self: baseline;
+}
+
+.footer-card-2-link-3 {
+  width: 141px;
+  height: 19px;
+  background-color: aqua;
+  margin-top: 15px;
+}
+.footer-card-2-link-4 {
+  width: 124px;
+  height: 19px;
+  background-color: aqua;
+  margin-top: 10px;
+}
+.footer-card-2-link-5 {
+  width: 93px;
+  height: 19px;
+  background-color: aqua;
+  margin-top: 10px;
+}
+.footer-card-2-link-6 {
+  width: 48px;
+  height: 19px;
+  background-color: aqua;
+  margin-top: 10px;
 }

@@ -9,11 +9,12 @@ import Methodology from "./components/methodology";
 import CTA from "./components/CTA";
 import Submit from "./components/submit note";
 import Footer from "./components/rectangle 2585";
+import Copyright from "./components/Group 37138";
 
 function App() {
   return (
     <div className="App">
-      <AppHeader />
+      {/* <AppHeader />
       <Hero />
       <Services />
       <Core />
@@ -21,8 +22,9 @@ function App() {
       <Insights />
       <Methodology />
       <CTA />
-      <Submit />
+      <Submit /> */}
       <Footer />
+      <Copyright />
     </div>
   );
 }
